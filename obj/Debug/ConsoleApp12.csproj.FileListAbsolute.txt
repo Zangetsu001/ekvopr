@@ -1,0 +1,7 @@
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
