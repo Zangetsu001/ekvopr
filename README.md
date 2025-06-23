@@ -5,4 +5,4 @@
 4. Создайте класс MyClass, в котором реализуется интерфейс InterfaceС.
 5. В методе Main() создайте объект myClassOb и вызовите все методы, чтобы в консольном окне был выведен следующий текст:
 
-6. ![image](https://github.com/user-attachments/assets/3ba7f77c-1010-479a-8f78-0e1fa3a8205a)
+![image](https://github.com/user-attachments/assets/3ba7f77c-1010-479a-8f78-0e1fa3a8205a)
