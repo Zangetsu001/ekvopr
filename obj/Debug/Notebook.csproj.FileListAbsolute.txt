@@ -1,0 +1,7 @@
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\Notebook\bin\Debug\Notebook.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\Notebook\bin\Debug\Notebook.pdb
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\Notebook\obj\Debug\Notebook.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\Notebook\obj\Debug\Notebook.pdb
