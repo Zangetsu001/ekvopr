@@ -1,0 +1,7 @@
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp40\bin\Debug\ConsoleApp40.exe.config
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp40\bin\Debug\ConsoleApp40.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp40\bin\Debug\ConsoleApp40.pdb
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.AssemblyReference.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp40\obj\Debug\ConsoleApp40.exe
+C:\Users\qdedm\OneDrive\Рабочий стол\ОАИП\ConsoleApp40\obj\Debug\ConsoleApp40.pdb
